@@ -4,13 +4,13 @@ Site estático desenvolvido como trabalho acadêmico sobre Interação Humano-Co
 
 Feito apenas com **HTML e CSS puros**, sem uso de JavaScript ou frameworks.
 
-## 🌐 Site publicado
+## Site publicado
 
 O site está disponível ao vivo via GitHub Pages:
 
 **https://arthurmiranda117.github.io/Trilha-IHC/**
 
-## 🔗 Temas abordados
+## Temas abordados
 
 1. **IHC** — conceito da área, principais termos (usabilidade, UX, UI, acessibilidade, feedback) e seus objetivos.
 2. **Design Thinking** — as cinco fases do processo (empatia, definição, ideação, prototipação e teste), ferramentas e características da abordagem.
@@ -18,7 +18,7 @@ O site está disponível ao vivo via GitHub Pages:
 4. **WCAG / Paletas de Cores** — princípios de acessibilidade (POUR), níveis de conformidade, regras de contraste mínimo e exemplos visuais de paleta acessível e de contraste adequado/inadequado.
 5. **UX/UI** — diferença entre experiência e interface, apresentada em colunas comparativas, e as etapas do processo de desenvolvimento de um produto digital.
 
-## 🗂️ Estrutura do projeto
+## Estrutura do projeto
 
 ```
 .
@@ -32,7 +32,7 @@ O site está disponível ao vivo via GitHub Pages:
 └── README.md
 ```
 
-## 🎨 Padrão visual
+## Padrão visual
 
 Todas as páginas seguem o mesmo modelo:
 
@@ -43,7 +43,7 @@ Todas as páginas seguem o mesmo modelo:
 
 A estilização fica centralizada em `estilo.css`, o que garante consistência visual entre todas as páginas e facilita a manutenção do código.
 
-## ▶️ Como visualizar localmente
+## Como visualizar localmente
 
 Não é necessário nenhum servidor ou instalação. Basta clonar o repositório e abrir qualquer um dos arquivos `.html` diretamente no navegador — a navegação entre as páginas funciona por links relativos.
 
@@ -53,11 +53,11 @@ cd Trilha-IHC
 # abra index.html (ou atividade1.html) no navegador
 ```
 
-## 🚀 Publicação (GitHub Pages)
+## Publicação (GitHub Pages)
 
 O site é publicado automaticamente a cada `push` na branch `master`, via **Settings > Pages**, com a origem configurada como `Deploy from a branch` → `master` / `(root)`. O histórico de builds pode ser acompanhado na aba **Actions** do repositório.
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - HTML5
 - CSS3
